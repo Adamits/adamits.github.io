@@ -1,9 +1,19 @@
 .page-content {
-  margin-top: 12.5px;
+  margin-top: 40px;
 }
 
-.main-interests {
-  margin-top: 20px;
+.home-info {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.home .icon {
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.home .icon.first {
+  padding-left: 0px;
 }
 
 .main-interests .interest {
