@@ -1,0 +1,29 @@
+.page-content {
+  margin-top: 12.5px;
+}
+
+.main-interests {
+  margin-top: 20px;
+}
+
+.main-interests .interest {
+  border-right: 2px solid #D8D8D8;
+  font-size: 17px;
+}
+
+.main-interests .interest.last {
+  border-right: none;
+}
+
+.main-interests .interest h5 {
+  text-align: center;
+}
+
+.main-interests .interest .fas {
+  font-size: 48px;
+  margin-right: 10px;
+}
+
+.main-interests .interest-content {
+  margin-top: 20px;
+}
