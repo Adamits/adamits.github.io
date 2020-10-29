@@ -16,6 +16,14 @@
   padding-left: 0px;
 }
 
+.top-note {
+  padding-left: 10px;
+}
+
+.main-interests {
+  margin-top: 20px;
+}
+
 .main-interests .interest {
   border-right: 2px solid #D8D8D8;
   font-size: 17px;
