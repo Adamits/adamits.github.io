@@ -20,6 +20,24 @@
   padding-left: 10px;
 }
 
+table.announcements {
+  border-spacing: 10px 0px;
+
+  tr {
+    border-bottom: 1px solid #D3D3D3;
+  }
+
+  td.date {
+    width: 35%;
+  }
+
+  td.announcement {
+    width: 65%;
+  }
+}
+
+
+
 .main-interests {
   margin-top: 20px;
 }
