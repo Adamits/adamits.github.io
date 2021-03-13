@@ -1,0 +1,13 @@
+.teaching {
+  margin-top: 30px;
+}
+
+.teaching .course {
+  line-height: 2;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #D3D3D3;
+}
+
+.teaching .course .institution {
+}

@@ -1,5 +1,6 @@
 .page-content {
   margin-top: 40px;
+  font-size: 18px;
 }
 
 .home-info {
@@ -18,6 +19,23 @@
 
 .top-note {
   padding-left: 10px;
+}
+
+table.announcements {
+  border-spacing: 20px 0px;
+}
+table.announcements td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+table.announcements td.date {
+  width: 20%;
+}
+
+table.announcements td.announcement {
+  border-bottom: 1px solid #D3D3D3;
+  width: 80%;
 }
 
 .main-interests {
